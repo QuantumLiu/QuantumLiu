@@ -14,7 +14,7 @@
  </a> 
 
 <a href="https://github.com/tensorlayer/TensorLayerX" target="\_blank">
-  <img src="https://github.com/QuantumLiu/OpenIVA/blob/main/logos/%E8%85%BE%E9%BE%99LOGOSLIDE.png" width="200" />
+  <img src="https://github.com/QuantumLiu/OpenIVA/blob/main/logos/%E8%85%BE%E9%BE%99LOGOSLIDE.png" width="150" />
  </a> 
 
 </div>  
