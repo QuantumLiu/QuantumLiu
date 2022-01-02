@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?theme=cobalt&username=QuantumLiu&show_icons=true" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?theme=default&username=QuantumLiu&show_icons=true&count_private=true" />  
+
 
 ### 刘奕良  
 
@@ -21,6 +22,7 @@
 
 - 📫 Connect with me **liuyiliang100@gmail.com**
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLiu&layout=compact&theme=cobal" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,9 +46,11 @@
 #### Top Repositories
 
 
+<p align="center"> 
 <a href="https://github.com/QuantumLiu/OpenIVA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLiu&repo=OpenIVA&theme=cobalt" height="120"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLiu&repo=OpenIVA&theme=default" height="120"/>
 </a>
 <a href="https://github.com/tensorlayer/TensorLayerX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorlayer&repo=TensorLayerX&theme=cobalt" height="120"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorlayer&repo=TensorLayerX&theme=default" height="120"/>
 </a>
+</p>
