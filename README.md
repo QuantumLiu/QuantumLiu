@@ -45,8 +45,8 @@
 
 
 <a href="https://github.com/QuantumLiu/OpenIVA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLiu&repo=OpenIVA&theme=cobalt" height="120"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumLiu&repo=OpenIVA&theme=default" height="120"/>
 </a>
 <a href="https://github.com/tensorlayer/TensorLayerX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorlayer&repo=TensorLayerX&theme=cobalt" height="120"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorlayer&repo=TensorLayerX&theme=default" height="120"/>
 </a>
