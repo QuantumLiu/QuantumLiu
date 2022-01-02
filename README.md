@@ -10,7 +10,7 @@
 <div align="left">
 
 <a href="https://github.com/QuantumLiu/OpenIVA" target="\_blank">
-  <img src="https://github.com/QuantumLiu/OpenIVA/blob/main/logos/openiva.png" width="200" />
+  <img src="https://github.com/QuantumLiu/OpenIVA/blob/main/logos/openiva.png" width="150" />
  </a> 
 
 <a href="https://github.com/tensorlayer/TensorLayerX" target="\_blank">
