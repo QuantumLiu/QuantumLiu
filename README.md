@@ -6,7 +6,7 @@
 <h4 align="left">北京天清骑车车科技有限公司 CEO</h4>
 
 
-- 🔭 I’m currently working on 
+🔭 I’m currently working on 
 
 <div align="left">
 
@@ -20,7 +20,7 @@
 
 </div>  
 
-- 📫 Connect with me **liuyiliang100@gmail.com**
+📫 Connect with me **liuyiliang100@gmail.com**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLiu&layout=compact&theme=cobal" />
 
